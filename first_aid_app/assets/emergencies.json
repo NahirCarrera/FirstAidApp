@@ -1,0 +1,146 @@
+[
+  {
+    "id_emergencia": "E0001",
+    "emergencia": "Heridas",
+    "descripcion": "Heridas pequeñas, superficiales, con sangrado mínimo que se detiene fácilmente\nHeridas grandes, profundas, con sangrado abundante que no se detiene fácilmente\nPuede involucrar daño a músculos, huesos o vasos sanguíneos importantes",
+    "grupo de edad": "todos",
+    "severidad": "moderada",
+    "etiqueta": "heridas y trauma",
+    "evaluacion inicial": "no"
+  },
+  {
+    "id_emergencia": "E0002",
+    "emergencia": "Emergencia diabética",
+    "descripcion": "Situación crítica por niveles extremos de glucosa en sangre, ya sea hipoglucemia (bajo azúcar) o hiperglucemia (alto azúcar).",
+    "grupo de edad": "todos",
+    "severidad": "crítica",
+    "etiqueta": "condiciones médicas",
+    "evaluacion inicial": "si"
+  },
+  {
+    "id_emergencia": "E0003",
+    "emergencia": "Fractura",
+    "descripcion": "uptura parcial o total de un hueso causada por un impacto o lesión grave.",
+    "grupo de edad": "todos",
+    "severidad": "moderada",
+    "etiqueta": "heridas y trauma",
+    "evaluacion inicial": "no"
+  },
+  {
+    "id_emergencia": "E0004",
+    "emergencia": "Convulsión",
+    "descripcion": "Movimientos corporales incontrolables por actividad eléctrica anormal en el cerebro, con o sin pérdida de conciencia.",
+    "grupo de edad": "todos",
+    "severidad": "moderada",
+    "etiqueta": "condiciones médicas",
+    "evaluacion inicial": "si"
+  },
+  {
+    "id_emergencia": "E0005",
+    "emergencia": "Asfixia",
+    "descripcion": "Obstrucción de las vías respiratorias que impide el flujo de aire hacia los pulmones.",
+    "grupo de edad": "Tratamiento especial para bebés",
+    "severidad": "crítica",
+    "etiqueta": "problemas respiratorios",
+    "evaluacion inicial": "si"
+  },
+  {
+    "id_emergencia": "E0006",
+    "emergencia": "Desmayo",
+    "descripcion": "Pérdida breve de la conciencia por falta de flujo sanguíneo adecuado al cerebro.",
+    "grupo de edad": "todos",
+    "severidad": "moderada",
+    "etiqueta": "condiciones médicas",
+    "evaluacion inicial": "si"
+  },
+  {
+    "id_emergencia": "E0007",
+    "emergencia": "Reacciones Alérgicas y Anafilaxia",
+    "descripcion": "Respuestas inmunológicas graves a alérgenos, que pueden incluir hinchazón, dificultad para respirar y shock anafiláctico",
+    "grupo de edad": "Tratamiento especial para bebés",
+    "severidad": "crítica",
+    "etiqueta": "condiciones médicas",
+    "evaluacion inicial": "no"
+  },
+  {
+    "id_emergencia": "E0008",
+    "emergencia": "Lesiones en la Cabeza",
+    "descripcion": "Daños al cráneo, cerebro o tejidos circundantes, que pueden variar desde contusiones leves hasta lesiones graves.",
+    "grupo de edad": "todos",
+    "severidad": "crítica",
+    "etiqueta": "heridas y trauma",
+    "evaluacion inicial": "si"
+  },
+  {
+    "id_emergencia": "E0009",
+    "emergencia": "Emergencias Cardiovasculares",
+    "descripcion": "Problemas críticos como ataques cardíacos o paros cardíacos, que afectan el funcionamiento del corazón y la circulación.",
+    "grupo de edad": "Tratamiento especial para bebés",
+    "severidad": "crítica",
+    "etiqueta": "condiciones médicas",
+    "evaluacion inicial": "si"
+  },
+  {
+    "id_emergencia": "RCPA001",
+    "emergencia": "RCP en Adultos",
+    "descripcion": "Maniobra de reanimación cardiopulmonar para adultos en caso de paro cardíaco.",
+    "grupo de edad": "adultos",
+    "severidad": "crítica",
+    "etiqueta": "tratamientos de emergencia",
+    "evaluacion inicial": "si"
+  },
+  {
+    "id_emergencia": "RCPB001",
+    "emergencia": "RCP en Bebés",
+    "descripcion": "Maniobra de reanimación cardiopulmonar adaptada para bebés en caso de paro respiratorio o cardíaco.",
+    "grupo de edad": "bebés",
+    "severidad": "crítica",
+    "etiqueta": "tratamientos de emergencia",
+    "evaluacion inicial": "si"
+  },
+  {
+    "id_emergencia": "VE001",
+    "emergencia": "Vendaje",
+    "descripcion": "Técnicas de vendaje para controlar hemorragias o proteger lesiones.",
+    "grupo de edad": "todos",
+    "severidad": "moderada",
+    "etiqueta": "tratamientos de emergencia",
+    "evaluacion inicial": "no"
+  },
+  {
+    "id_emergencia": "TQ001",
+    "emergencia": "Torniquete",
+    "descripcion": "Uso de un torniquete para controlar hemorragias graves, especialmente en extremidades.",
+    "grupo de edad": "todos",
+    "severidad": "crítica",
+    "etiqueta": "tratamientos de emergencia",
+    "evaluacion inicial": "si"
+  },
+  {
+    "id_emergencia": "PR001",
+    "emergencia": "Posición de Recuperación",
+    "descripcion": "Posición adecuada para mantener las vías respiratorias abiertas en una persona inconsciente.",
+    "grupo de edad": "todos",
+    "severidad": "moderada",
+    "etiqueta": "tratamientos de emergencia",
+    "evaluacion inicial": "si"
+  },
+  {
+    "id_emergencia": "HA001",
+    "emergencia": "Heimlich Adultos",
+    "descripcion": "Maniobra de Heimlich para desobstruir las vías respiratorias en adultos en caso de atragantamiento.",
+    "grupo de edad": "adultos",
+    "severidad": "crítica",
+    "etiqueta": "tratamientos de emergencia",
+    "evaluacion inicial": "si"
+  },
+  {
+    "id_emergencia": "HB001",
+    "emergencia": "Heimlich Niños",
+    "descripcion": "Maniobra de Heimlich adaptada para niños en caso de atragantamiento.",
+    "grupo de edad": "niños",
+    "severidad": "crítica",
+    "etiqueta": "tratamientos de emergencia",
+    "evaluacion inicial": "si"
+  }
+]
